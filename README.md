@@ -27,7 +27,11 @@ Expect some investigative questions about our data set.
 * Visualize the data using Matplotlib,Seabon and plotly.
 * Make conclusions.
 
+![newplot](https://user-images.githubusercontent.com/66929420/131003649-c55727b5-a5ca-43ae-9582-74b466b1d6ed.png)
+![inc](https://user-images.githubusercontent.com/66929420/131003677-9cb3d68a-25fb-4c51-bad2-1ab14f6793cd.png)
+
+
 # Contact
 
-Mail : everndah@gmail.com
-LinkedIn: LinkedIn Page
+Mail : everndah@gmail.com<br />
+LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/evanslango/)
