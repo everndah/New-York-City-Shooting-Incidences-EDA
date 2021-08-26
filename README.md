@@ -1,1 +1,1 @@
-# New-York-City-Shooting-Incidence-EDA
+# New-York-City-Shooting-Incidences-EDA
