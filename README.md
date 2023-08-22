@@ -5,8 +5,6 @@
 In the United States, hate crimes and shooting incidents have increased, sparking a divisive national debate on gun control laws. To develop effective police enforcement and intervention strategies, it is essential to gain a thorough understanding of criminal activity through statistical analysis, summarization, and insights derived from data sources, such as the [New York City Shooting Incidents dataset](https://www.kaggle.com/thedataperson/nypd-shooting-incident-data-20062021/download). Features such as shooting location, date, time, the shooter's and/or victim's age, gender, and race are all interesting aspects to explore for the purpose of offering solutions to the gun crisis. Data analysis reveals a concerning increase in gun violence on American streets, rendering them less safe and necessitating an urgent solution, therefore, there are specific areas requiring significant improvements to address the gun crisis in the United States effectively.
 
 
-`nyc_df.info()`
-
 ![Alt text](image-1.png)
 
 Image 1 : Summary of the DataFrame.
